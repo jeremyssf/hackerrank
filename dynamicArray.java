@@ -1,6 +1,6 @@
 /*
 * writing from scratch to practice the Scanner element and not use the client
-* by Jeremy Sung
+* by Jeremy Sung and Yuzuki Fujiwara for teaching high school coding
 *
 */
 
