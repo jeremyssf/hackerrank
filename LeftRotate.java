@@ -1,5 +1,5 @@
 /*
-* writing some Java problems from HackerRank with and to teach
+* Writing some Java problems from HackerRank with and to teach
 * my son Yuzuki Fujiwara at the high school level in beginner programming
 * by jss
   Sample Input
@@ -8,6 +8,10 @@
   
   Sample Output
   5 1 2 3 4
+  
+  This is more or less an exercise to practice using arrays.
+  There are couple of ways to do this, this being probably one of the simpler ways by
+  calling a method to shift the array elements one at a time, and d times.
 */
 
 import java.io.*;
